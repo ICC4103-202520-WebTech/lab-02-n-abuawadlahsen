@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bundle install:*)",
+      "Bash(rails:*)",
+      "Bash(psql:*)",
+      "Bash(net start:*)",
+      "Bash(pg_ctl:*)",
+      "Bash(where postgres)",
+      "Read(/c:\\Users\\Nader Abuawad\\Downloads/**)",
+      "Bash(taskkill:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
